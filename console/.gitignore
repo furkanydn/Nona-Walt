@@ -1,0 +1,45 @@
+### Proje Dosyası Baz Dosya Uzantısı
+template/
+###
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Visual Studio Code İçin Yerel Geçmiş Uzantısı
+.history/
+
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Kullanıcı Bazlı Dosya Uzantıları
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Sonuç Dosyası Uzantıları
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
