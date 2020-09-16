@@ -4,6 +4,6 @@ This project help you to monitor your websites, send and alert to you if somethi
 
 ## Docker
 
-We willl add these information later
+I willl add these information later
 
 ## Test 
